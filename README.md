@@ -467,7 +467,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [PHP Performance Benchmark](https://github.com/ismail0234/php-performance-benchmark/blob/master/documents/TR.md) - [İsmail Satılmış](https://github.com/ismail0234)
 - [PHP PDO Sorgu Oluşturucu](https://github.com/ismail0234/pdodatabase/blob/master/docs/README_v2.x_TR.md) - [İsmail Satılmış](https://github.com/ismail0234)
 - [PHP eFatura Uygulaması](https://github.com/furkankadioglu/efatura) - [Furkan Kadıoğlu](https://github.com/furkankadioglu)
-
+- [Sıfırdan PHP Dersleri](https://www.youtube.com/playlist?list=PL3dHQB1OoCaCqwDIsKcRpkoIDE8t_DHcS) - [Mert Buldur](https://mertbuldur.com)
 
 ### Postgres
 - [PostgreSQL 12'de Streaming Replication İşlemleri](https://medium.com/@aydemirzekiye/postgresql-12de-streaming-replication-i%CC%87%C5%9Flemleri-40f792a8141b?) - [Zekiye Aydemir](https://twitter.com/pgElephant)
